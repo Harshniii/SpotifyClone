@@ -1,4 +1,4 @@
-### 🎵 SpotifyClone 
+## 🎵 SpotifyClone 
 
 SpotifyClone is a simple web-based music player interface inspired by Spotify, built using HTML and CSS. 
 
