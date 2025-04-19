@@ -4,7 +4,7 @@ SpotifyClone is a simple web-based music player interface inspired by Spotify, b
 
 ---
 
-### 📌 Features 
+###  Features 
 -  Responsive UI with a sidebar, main content area, and a fixed music player.
 -  Styled using modern CSS features including Flexbox.
 -  Interactive navigation with hover effects.
@@ -13,13 +13,13 @@ SpotifyClone is a simple web-based music player interface inspired by Spotify, b
 
 ---
 
-### 💻 Technologies Used
+###  Technologies Used
 -  HTML5
 -  CSS3 (Flexbox, Custom Styles)
 
 ---
 
-### 📝 Setup Instructions 
+###  Setup Instructions 
 🎶 Follow these steps to get started:
 1. Clone the repository:
    ```sh
@@ -33,7 +33,7 @@ SpotifyClone is a simple web-based music player interface inspired by Spotify, b
 
 ---
 
-### ✨ Future Enhancements 
+###  Future Enhancements 
 -  Add JavaScript for interactive music playback.
 -  Implement dynamic playlists.
 -  Improve responsiveness for mobile devices.
